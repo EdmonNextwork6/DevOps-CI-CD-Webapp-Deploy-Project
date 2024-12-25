@@ -20,6 +20,4 @@ phases:
 artifacts:
   files:
     - target/nextwork-web-project.war
-    - appspec.yml
-    - scripts/**/*  # Corrected this part for wildcard inclusion
   discard-paths: no
